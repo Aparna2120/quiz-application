@@ -1,0 +1,46 @@
+body{
+    width: 80%!important;
+    margin: auto!important;
+}
+
+.panel{
+    text-align: center;
+}
+
+.question-container{
+    font-size: 2em;
+    margin: 2em 0;
+}
+
+.option{
+    border: none;
+    padding: 1em 2em;
+    font-size: 1.5em;
+    border-radius: 10px;
+    margin: 0 1em;
+    text-transform: capitalize;
+    background-color: rgb(112, 188, 255);
+}
+
+.result{
+    font-size: 1.3em;
+    margin-top: 1em;
+}
+
+.navigation button{
+    border-radius: 10px;
+    padding: 1em 2em;
+    font-size: 1.2em;
+    margin: 3em 1em;
+    border:none;
+}
+
+.evaluate{
+    background-color: brown;
+    color: #fff;
+}
+
+.next{
+    background-color: indianred;
+    color: #fff;
+}
